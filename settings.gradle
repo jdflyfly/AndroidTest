@@ -1,1 +1,1 @@
-include ':app', ':layoutinflatertest'
+include ':app', ':layoutinflatertest', ':viewmeasurelayoutdrawtest'

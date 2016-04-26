@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200px"
+    android:layout_height="400px"
+    android:orientation="vertical"
+    tools:context="com.example.djiang.viewmeasurelayoutdrawtest.MainActivity">
+
+    <com.example.djiang.viewmeasurelayoutdrawtest.MyTextView
+        android:id="@+id/top"
+        android:layout_width="200px"
+        android:layout_height="200px"
+        android:background="@color/colorPrimary" />
+
+    <com.example.djiang.viewmeasurelayoutdrawtest.MyTextView
+        android:id="@+id/bottom"
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:background="@color/colorAccent" />
+
+</LinearLayout>
