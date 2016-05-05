@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--设计规范中的颜色开始-->
+
+    <!--标准色-->
+    <!--小面积使用，用于特别需要强调和突出的文字、按钮、icon-->
+    <color name="C39bf9e">#39bf9e</color>
+    <!--用于文字链颜色-->
+    <color name="C477db2">#477db2</color>
+
+    <!--一般-->
+    <!--用于重要级文字信息、内页标题、正文；如大板块标题、正文-->
+    <color name="C2d2d2d">#2d2d2d</color>
+    <!--用于普通级段落信息；如评论文字颜色-->
+    <color name="C949494">#949494</color>
+    <!--用于辅助、次要的文字信息、普通按钮描边；如发布时间等-->
+    <color name="Cafafaf">#afafaf</color>
+
+    <!--较弱-->
+    <!---->
+    <color name="Cc9c9c9">#c9c9c9</color>
+    <!--用于分割线-->
+    <color name="Ce4e4e4">#e4e4e4</color>
+    <!--用于分割模块的底色-->
+    <color name="Cf6f6f6">#f6f6f6</color>
+    <!--用于整个页面的背景色-->
+    <color name="Cf2f2f2">#f2f2f2</color>
+
+    <!--警示色-->
+    <!--用于操作成功等-->
+    <color name="C09bb07">#09bb07</color>
+    <!--用于操作失败、错误提示及强提醒等-->
+    <color name="Cf0413d">#f0413d</color>
+    <!--用于气泡提醒等-->
+    <color name="Ced6a6a">#ed6a6a</color>
+
+    <!--运营色-->
+    <!--用于运营活动等-->
+    <color name="Cff2f82">#ff2f82</color>
+    <!--用于运营活动等-->
+    <color name="Cf69d35">#f69d35</color>
+
+    <!--补充-->
+    <!--按钮按压颜色-->
+    <color name="C33ac8e">#33ac8e</color>
+
+    <color name="Cffffff">#ffffff</color>
+
+    <!--设计规范中的颜色结束-->
+
+</resources>

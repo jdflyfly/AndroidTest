@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="XButtonsAttrs">
+        <attr name="xdefaultColor" format="color" />
+        <attr name="xfocusColor" format="color" />
+
+        <attr name="xtextColor" format="color" />
+        <attr name="xtextSize" format="dimension" />
+        <attr name="xtextGravity" format="enum">
+            <enum name="xtop" value="0x30" />
+            <enum name="xbottom" value="0x50" />
+            <enum name="xleft" value="0x03" />
+            <enum name="xright" value="0x05" />
+            <enum name="xcenter_vertical" value="0x10" />
+            <enum name="xfill_vertical" value="0x70" />
+            <enum name="xcenter_horizontal" value="0x01" />
+            <enum name="xfill_horizontal" value="0x07" />
+            <enum name="xcenter" value="0x11" />
+            <enum name="xfill" value="0x77" />
+            <enum name="xclip_vertical" value="0x80" />
+            <enum name="xclip_horizontal" value="0x08" />
+            <enum name="xstart" value="0x00800003" />
+            <enum name="xend" value="0x00800005" />
+        </attr>
+
+        <attr name="xborderColor" format="color" />
+        <attr name="xborderWidth" format="dimension" />
+        <attr name="xcornerRadius" format="dimension" />
+
+        <attr name="xtext" format="string" />
+        <attr name="xenable" format="boolean" />
+
+    </declare-styleable>
+
+
+</resources>

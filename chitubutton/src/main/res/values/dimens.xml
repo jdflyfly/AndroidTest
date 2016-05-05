@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--设计规范中的字体开始-->
+
+    <!--主标题-->
+    <dimen name="F60">20sp</dimen>
+    <!--次级标题-->
+    <dimen name="F54">18sp</dimen>
+    <!--小标题-->
+    <dimen name="F42">14sp</dimen>
+    <!--正文、失效文字、链接文字-->
+    <dimen name="F48">16sp</dimen>
+    <!--辅助文字1-->
+    <dimen name="F39">13sp</dimen>
+    <!--辅助文字2-->
+    <dimen name="F36">12sp</dimen>
+
+    <!--设计规范中的字体结束-->
+
+</resources>
