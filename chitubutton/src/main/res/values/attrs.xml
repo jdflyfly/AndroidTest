@@ -2,11 +2,19 @@
 <resources>
 
     <declare-styleable name="XButtonsAttrs">
+        <!--按钮背景色，如果不设置，则为 赤兔绿-->
         <attr name="xdefaultColor" format="color" />
+        <!--按钮按压背景色，如果不设置，则为按钮普通背景色+%10透明的黑色-->
         <attr name="xfocusColor" format="color" />
 
+        <!--按钮文字颜色，如果不设置，则为白色-->
         <attr name="xtextColor" format="color" />
+        <!--按钮按压文字颜色，如果不设置，则跟正常状态文字颜色一致-->
+        <attr name="xfocusTextColor" format="color" />
+
+        <!--文字大小,如不设置，默认未15sp-->
         <attr name="xtextSize" format="dimension" />
+        <!--文字gravity，如不设置，默认为Center-->
         <attr name="xtextGravity" format="enum">
             <enum name="xtop" value="0x30" />
             <enum name="xbottom" value="0x50" />
@@ -23,12 +31,15 @@
             <enum name="xstart" value="0x00800003" />
             <enum name="xend" value="0x00800005" />
         </attr>
-
+        <!-- 描边颜色，如不设置，透明色-->
         <attr name="xborderColor" format="color" />
+        <!--描边宽度，如不设置，为0-->
         <attr name="xborderWidth" format="dimension" />
+        <!--圆角半径，如不设置，默认为7dp-->
         <attr name="xcornerRadius" format="dimension" />
-
+        <!--按钮的文字信息-->
         <attr name="xtext" format="string" />
+        <!-- 按钮的状态，enable状态按照正常设置行为，disable状态下为统一灰色不可点击-->
         <attr name="xenable" format="boolean" />
 
     </declare-styleable>

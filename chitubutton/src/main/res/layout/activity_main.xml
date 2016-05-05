@@ -15,10 +15,10 @@
         android:id="@+id/xbutton"
         android:layout_width="200dp"
         android:layout_height="40dp"
-        fancy:xborderColor="@android:color/black"
-        fancy:xenable="false"
         fancy:xtext="报名啊"
-        fancy:xtextColor="@android:color/white"
+        fancy:xtextColor="@android:color/holo_green_dark"
+        fancy:xborderWidth = "1dp"
+        fancy:xborderColor = "@android:color/black"
         fancy:xtextSize="20sp" />
 
 
