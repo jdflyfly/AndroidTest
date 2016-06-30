@@ -1,1 +1,1 @@
-include ':app', ':layoutinflatertest', ':viewmeasurelayoutdrawtest', ':chitubutton', ':handlertest', ':drawabletest', ':listviewtest'
+include ':app', ':layoutinflatertest', ':viewmeasurelayoutdrawtest', ':chitubutton', ':handlertest', ':drawabletest', ':listviewtest', ':scrolltest'
